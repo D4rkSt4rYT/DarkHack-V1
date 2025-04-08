@@ -491,7 +491,7 @@ local flySpeed = 50
 
 local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/iceswallowpis/criminality-ui-lib-fork/refs/heads/main/lib.lua'))()
 
-local window = library.new('DarkCheats V1 (Esp with Aim Bugged)', 'DarkCheats V1 (Esp with Aim Bugged)')
+local window = library.new('DarkCheats V1', 'DarkCheats V1')
 
 local tab = window.new_tab('rbxassetid://4483345998')
 
